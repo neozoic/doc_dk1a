@@ -12,4 +12,12 @@ sudo apt-get update
 sudo apt-get install firefox
 ```
 
-等待安装完成，即可使用。
+等待安装完成，在终端中输入firefox或者在左上角依次点击“Applications->Internet->Firefox Web Browser”即可使用。
+
+# Q：安装软件时报错“E：You don't have enough free space in ...”怎么办？
+
+A：在终端中使用如下命令进行扩容：
+
+```shell
+sudo resize2fs /dev/mmcblk0p16
+```
