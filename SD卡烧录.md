@@ -20,9 +20,17 @@ DK-1A支持从EMMC引导启动和从SD卡引导启动。
 
 在balenaEtcher界面中选择“从文件烧录”，并在对话框中选择解压后以.img尾缀的镜像文件；
 
+![balenaEtcher_选择镜像](./images/balenaEtcher_选择镜像.png)
+
+![balenaEtcher_选择镜像_2](./images/balenaEtcher_选择镜像_2.png)
+
 #### Step3
 
 点击“选择目标磁盘”按钮，选择SD卡所在盘符；
+
+![balenaEtcher_选择目标磁盘](./images/balenaEtcher_选择目标磁盘.png)
+
+![balenaEtcher_选择目标磁盘_2](./images/balenaEtcher_选择目标磁盘_2.png)
 
 #### Step4
 
