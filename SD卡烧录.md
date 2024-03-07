@@ -6,13 +6,15 @@ DK-1A支持从EMMC引导启动和从SD卡引导启动。
 
 #### 准备工作
 
-- SD卡烧录工具**balenaEtcher** ，点击[此处]( https://etcher.balena.io/)下载并安装；
+- SD卡烧录工具**balenaEtcher** ，点击[此处](https://etcher.balena.io/#download-etcher)选择合适的版本下载并安装；
 
 - 更新镜像文件，下载地址[PPOSv1.1.1](https://pp-os.bj.bcebos.com/vs680/system/dk1a-generic-1.1.1-system.zip) ，MD5：9a10b1008185d05e8c604781d84f9fcb ，并解压。
 
 #### Step1
 
-将SD卡插入电脑，并打开balenaEtcher；  
+将SD卡插入电脑，并打开balenaEtcher；
+
+![balenaEtcher_主界面](./images/balenaEtcher_主界面.png)
 
 #### Step2
 
